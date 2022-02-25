@@ -98,5 +98,5 @@ class FirefoxAutomation():
             (find_by, search_string)))
         
 way2automate = FirefoxAutomation()
-way2automate.add_user("Test", "User", "test12", "9726512404", "secret", "Sales1 Team")
+way2automate.add_user("Test", "User", "test12", "9726512404", "secret", "Sales Team")
 way2automate.delete_user("Novak")
